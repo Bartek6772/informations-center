@@ -1,0 +1,6 @@
+@import './../../Styles/variables.scss';
+
+.element{
+    background-color: $el-color;
+    @include center-content;
+}
